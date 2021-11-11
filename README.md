@@ -1,2 +1,1 @@
-# DigitalWatch
-Digital Watch
+Digital Watch using Swing,AWT and Thread
