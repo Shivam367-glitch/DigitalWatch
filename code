@@ -41,7 +41,7 @@ DigitalWatch(){
   
             printTime();  
   
-            // interval given in milliseconds  
+        t.sleep(1000);    // interval given in milliseconds  
          }  
       }  
       catch (Exception e) { }  
